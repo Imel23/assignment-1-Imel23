@@ -1,3 +1,4 @@
+#!/bin/bash
 write_file=$1
 write_str=$2
 
